@@ -1,0 +1,2 @@
+buildpack: python_buildpack
+command: python beer_me.py
