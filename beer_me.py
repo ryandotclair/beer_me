@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from flask import Flask, jsonify, make_response
 import os
-import json
 
 # Initiate Flask
 app = Flask(__name__)
