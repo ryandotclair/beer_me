@@ -1,6 +1,8 @@
 ## Purpose
 
-Simple flask webapp, designed to run on Cloud Foundrythat look for a GET on /api/beer and returns a json request of:
+Simple flask webapp, designed to run on Cloud Foundry, that allows GET'ing beer.
+
+Just GET <ip_of_webapp>/api/beer and you'll get a json of free beer:
 
 ```
 {
